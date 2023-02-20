@@ -1,4 +1,4 @@
-#include <cstdint>
+#i#include <cstdint>
 #include "alg.h"
 bool checkPrime(uint64_t value) {
   uint64_t count = 0;
