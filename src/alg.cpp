@@ -26,7 +26,6 @@ for (int i = 1; i <= 10000; i++) {
 	if (count2 == n) {
 		return i;
 	}
-	else
 		count1 = 0;
 }
 return 0;
@@ -44,7 +43,6 @@ for (int i = value + 1; i <= 10000; i++) {
 		return i;
 		count = 0;
 	}
-	else
 		count = 0;
 }
 return 0;
